@@ -1,0 +1,26 @@
+# Data files (too large for git)
+data/pdfs/
+data/images/
+data/embeddings.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Modal
+.modal/
