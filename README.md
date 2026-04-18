@@ -142,7 +142,7 @@ colpali-rag-assignment/
 1. **Codebase** — Modular `src/` package + notebook (this repo)
 2. **Demo Application** — [Live on Modal](https://s-abdulrahman-elattar--colpali-rag-ui-dev.modal.run)
 3. **Technical Report** — `TECHNICAL_REPORT.md`
-4. **Video Demonstration** — [link to be added]
+4. **Video Demonstration** — [[link](https://drive.google.com/file/d/1O7g_OihAFULYf6_1qomDVNRybPvwvcrO/view?usp=sharing)]
 
 ## References
 
